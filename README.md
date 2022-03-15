@@ -1,2 +1,3 @@
-# MalyTest
-Øvelse 
+# Mit første github projekt
+Det skal nok gå godt
+
